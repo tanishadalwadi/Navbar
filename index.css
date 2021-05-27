@@ -1,0 +1,18 @@
+.container{
+    background-color:rgb(127, 219, 255);
+    width: 40%;
+}
+
+nav{
+display: block;
+}
+li{
+    font-size: 20px;
+    padding: 10px;
+    list-style: none;
+    background-color:rgb(127, 219, 255) ;
+
+}
+li:hover{
+    background-color: rgb(111, 187, 223);
+}
